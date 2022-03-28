@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Unit 5 Project: Build Instagram from the Ground Up - Part 1
 
 **Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
 
